@@ -40,8 +40,7 @@ z-index: 100;
 }
 
 .home {
-  height: 100vh;
-  background: linear-gradient(-90deg,#031540 65% #ffff 35%);
+height: 100vh;
 background-color:indigo;
 display: flex;
 align-items: center;
